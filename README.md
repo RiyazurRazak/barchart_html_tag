@@ -1,9 +1,14 @@
-# CUSTOM BARCHART TAG
+# CUSTOM HTML BARCHART TAG
 
 ## Syntax
 
 #
 
+## Usage
+
+```html
+  <script src="https://cdn.jsdelivr.net/gh/RiyazurRazak/barchart_html_tag/dist/barchart.js" defer></script>
+```
 
 ````html
 <barchart height="230" width="300" backgroundColor="white">
